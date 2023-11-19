@@ -6,3 +6,4 @@ github上で更新
 github上でさらに更新
 rebase-practiceで更新
 rebase-practice conflict練習
+stash練習
