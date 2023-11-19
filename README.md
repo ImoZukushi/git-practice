@@ -7,3 +7,5 @@ github上でさらに更新
 rebase-practiceで更新
 rebase-practice conflict練習
 stash練習
+stash練習track済
+stash練習コメント
