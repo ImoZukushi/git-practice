@@ -9,3 +9,4 @@ rebase-practice conflict練習
 stash練習
 stash練習track済
 stash練習コメント
+stash練習2
